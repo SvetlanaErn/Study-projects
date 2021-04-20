@@ -4,7 +4,7 @@ using System.Globalization;
 using System.IO;
 using System.Linq;
 
-namespace Shop
+namespace ShopConsoleProject
 {
     public class Product
     {
