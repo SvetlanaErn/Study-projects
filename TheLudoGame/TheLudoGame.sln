@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI", "UI\UI.csproj", "{1615A00C-4476-467B-8E97-DB6AA86B3CB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameEngine", "GameEngine\GameEngine.csproj", "{B516EBEC-AAC3-43D5-919C-DA528EE8ED7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LudoTest", "LudoTest\LudoTest.csproj", "{C62EA5AE-AEC1-4999-95EC-9771CA883132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1615A00C-4476-467B-8E97-DB6AA86B3CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1615A00C-4476-467B-8E97-DB6AA86B3CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1615A00C-4476-467B-8E97-DB6AA86B3CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1615A00C-4476-467B-8E97-DB6AA86B3CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B516EBEC-AAC3-43D5-919C-DA528EE8ED7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B516EBEC-AAC3-43D5-919C-DA528EE8ED7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B516EBEC-AAC3-43D5-919C-DA528EE8ED7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B516EBEC-AAC3-43D5-919C-DA528EE8ED7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62EA5AE-AEC1-4999-95EC-9771CA883132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62EA5AE-AEC1-4999-95EC-9771CA883132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62EA5AE-AEC1-4999-95EC-9771CA883132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62EA5AE-AEC1-4999-95EC-9771CA883132}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {795378BC-AEDA-4B38-B52C-F7EE2E5A3704}
+	EndGlobalSection
+EndGlobal
